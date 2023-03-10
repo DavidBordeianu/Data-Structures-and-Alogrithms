@@ -1,0 +1,6 @@
+Pozitie 	 Greutate:	Profit:
+3 			 3.00 		3.00 
+2 			 7.00 		7.00 
+
+Greutatea aflata in rucsac este 10.00
+Profitul maxim este: 10.00
